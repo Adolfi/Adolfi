@@ -1,8 +1,6 @@
 <!-- Header -->
 <div align="center">
 
-# Dennis Adolfi
-
 **Head of Tech · Knowit Experience Sweden**  
 Building AI agents and digital platforms across the .NET ecosystem
 
