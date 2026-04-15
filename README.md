@@ -13,13 +13,13 @@ Building AI agents and digital platforms across the .NET ecosystem
 
 ---
 
-## What I do
+## About
 
 With a strong passion for Sustainable Technology and Trustworthy AI, Dennis has been an active member of the Microsoft & Umbraco community well over a decade, writing hundreds of articles, tutorials, speaking at conferences, meetups, contributing to open source projects, youtube videos, podcasts, forums etc. for which he has been awarded 4x Microsoft MVP (Azure AI Foundry, Trustworthy AI and Developer Technologies), 7x Umbraco MVP, Top 3 Open Source contributor in Sweden 2024 and Top 5 Developers in Sweden 2023.
 
 ---
 
-## Writing & speaking
+## Blogs, Articles & Public Speaking
 
 - 📝 Blog [adolfi.dev](https://adolfi.dev) — AI, Microsoft Foundry, GitHub Copilot, .NET, Umbraco
 - 💼 Regular posts on [LinkedIn](https://linkedin.com/in/dennisadolfi) — Practical takes on AI adoption
@@ -27,7 +27,7 @@ With a strong passion for Sustainable Technology and Trustworthy AI, Dennis has 
 
 ---
 
-## Reach me
+## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dennisadolfi-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/dennisadolfi)
 [![Blog](https://img.shields.io/badge/Blog-adolfi.dev-FF6B35?style=flat-square)](https://adolfi.dev)
