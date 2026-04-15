@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-**Head of Tech · Knowit Experience Sweden**  
+**Dennis Adolfi · Head of Tech at Knowit Experience Sweden**  
 Building AI agents and digital platforms across the .NET ecosystem
 
 [![MVP Badge](https://img.shields.io/badge/Microsoft_MVP-4×-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://mvp.microsoft.com)
